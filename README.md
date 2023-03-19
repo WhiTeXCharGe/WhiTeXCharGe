@@ -4,7 +4,7 @@ Hi 👋 My name is Seiya Tajima
 I'm also a lifelong learner, and I'm always looking for new ways to gain new knowledge and improve my skills. I believe that collaboration and teamwork are the keys to success, and I'm always looking for new opportunities to work with others and share my knowledge.
 
 * ✉️  You can contact me at [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
-* 🧠  I'm learning blockchain, AI, ML
+* 🧠  I'm currently interesting in blockchain, AI, ML or any software development
 
 ### Skills
 
@@ -28,9 +28,13 @@ I'm also a lifelong learner, and I'm always looking for new ways to gain new kno
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
+
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<p align="left"> <a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <br><a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <br><a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><br> <a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <br><a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
