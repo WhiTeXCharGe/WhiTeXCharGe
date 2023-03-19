@@ -4,6 +4,7 @@ Hi 👋 My name is Seiya Tajima
 I'm also a lifelong learner, and I'm always looking for new ways to gain new knowledge and improve my skills. I believe that collaboration and teamwork are the keys to success, and I'm always looking for new opportunities to work with others and share my knowledge.
 
 * ✉️  You can contact me at [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
+* 🏫  KMUTT. Bachelor in Computer Engineering
 * 🧠  I'm currently interesting in blockchain, AI, ML or any software development
 
 ### Skills
@@ -29,16 +30,22 @@ I'm also a lifelong learner, and I'm always looking for new ways to gain new kno
 </p>
 
 
-### Socials
+### Check my socials
 
 
-<p align="left"> <a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <br><a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <br><a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><br> <a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <br><a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p> My discord :<a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<br> My facebook<a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<br> My github :<a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<br> My intragram :<a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<br> My linkin : <a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/WhiTeXCharGe"><img src="https://github-readme-stats.vercel.app/api?username=WhiTeXCharGe&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="WhiTeXCharGe's GitHub stats" /></a>
 
 <a href="http://www.github.com/WhiTeXCharGe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=WhiTeXCharGe&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+#### Additional information
+* I have a minimum of 3 years of coding experience. But I only recently started using Github seriously.
