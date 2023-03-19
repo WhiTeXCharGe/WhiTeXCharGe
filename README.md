@@ -33,11 +33,11 @@ I'm also a lifelong learner, and I'm always looking for new ways to gain new kno
 ### Check my socials
 
 
-<p><a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> : My discord </a> 
-<br><a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />  : My facebook </a> 
-<br><a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> : My github </a>
-<br><a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> : My intragram</a> 
-<br><a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> : My linkin</a>
+<p><a href="https://discord.com/users/294073025131708427" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> : My discord
+<br><a href="https://www.facebook.com/seiya.tajima.395/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> : My facebook 
+<br><a href="https://www.github.com/WhiTeXCharGe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> : My github 
+<br><a href="http://www.instagram.com/seikung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> : My intragram 
+<br><a href="https://www.linkedin.com/in/seiya-tajima-69ba30265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> : My linkin
 </p>
 
 
