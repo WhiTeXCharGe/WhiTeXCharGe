@@ -1,7 +1,7 @@
 Hi 👋 My name is Seiya Tajima
 =============================
 
-I'm also a lifelong learner, and I'm always looking for new ways to gain new knowledge and improve my skills. I believe that collaboration and teamwork are the keys to success, and I'm always looking for new opportunities to work with others and share my knowledge.
+I'm also a lifelong learner, and I'm always looking for new ways to gain new knowledge and improve my skills. I believe that collaboration and teamwork are the keys to success, and I'm always looking for new opportunities to work with others and share my knowledge. 
 
 * ✉️  You can contact me at [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
 * 🏫  KMUTT. Bachelor in Computer Engineering
