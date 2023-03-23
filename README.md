@@ -5,7 +5,7 @@ I'm also a lifelong learner, and I'm always looking for new ways to gain new kno
 
 * ✉️  You can contact me at [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
 * 🏫  KMUTT. Bachelor in Computer Engineering
-* 🧠  I'm currently interesting in blockchain, AI, ML or any software development
+* 🧠  I'm currently interesting in blockchain, AI, ML or any software development 
 
 ### Skills
 
